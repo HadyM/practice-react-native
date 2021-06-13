@@ -102,11 +102,11 @@ const styles = StyleSheet.create({
   },
   button: {
     backgroundColor: "blue",
-    padding: 25,
+    padding: 20,
     borderRadius: 15,
   },
   buttonText: {
-    fontSize: 20,
+    fontSize: 23,
     color: "#fff",
   },
   thumbnail: {
