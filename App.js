@@ -97,11 +97,11 @@ const styles = StyleSheet.create({
   },
   instructions: {
     color: "#888",
-    fontSize: 18,
+    fontSize: 19,
     marginHorizontal: 15,
   },
   button: {
-    backgroundColor: "blue",
+    backgroundColor: "green",
     padding: 25,
     borderRadius: 15,
   },
